@@ -7,4 +7,4 @@ else{
     console.log("Large number")
 }
 
-console.log("first code")
+console.log("first code   for writing but its my 9th code ")
