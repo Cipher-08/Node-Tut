@@ -7,6 +7,9 @@ const {say} = require('./module-b')
 say(saksham)
 
 
+///////alternatives can be easily find in this manner
+
+
 
 
 
